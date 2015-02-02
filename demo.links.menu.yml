@@ -1,0 +1,6 @@
+demo.admin:
+  title: 'Demo Menu Link'
+  description: 'Menu Link for demo module'
+  parent:system.admin_config_development
+  route_name: demo.admin
+  weight: -5
