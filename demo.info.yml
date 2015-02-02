@@ -1,0 +1,4 @@
+name: 'Demo'
+description: 'Demo module to get comfortable with Drupal 8 API.'
+type: 'module'
+core: 8.x
